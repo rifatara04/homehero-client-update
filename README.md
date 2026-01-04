@@ -3,8 +3,8 @@
 A modern web application that connects users with trusted local service providers. Browse services, book appointments, and leave ratings/reviews — while providers can manage their own services with full CRUD operations.
 
 🌐 **Live Site:** https://homehero-bd.web.app  
-💻 **Client Repo:** https://github.com/nazmulshishir01/homehero-client  
-⚙️ **Server Repo:** https://github.com/nazmulshishir01/homehero  
+💻 **Client Repo:** https://github.com/rifatara04/homehero-client-update  
+⚙️ **Server Repo:** https://github.com/rifatara04/homehero-server-update
 🔌 **API Base URL (Vercel):** https://homehero-five.vercel.app  
 
 ---
@@ -83,5 +83,5 @@ Password: `Admin@123`
 
 ### 1) Clone the client repo
 ```bash
-git clone https://github.com/nazmulshishir01/homehero-client.git
+git clone https://github.com/rifatara04/homehero-client-update
 cd homehero-client
